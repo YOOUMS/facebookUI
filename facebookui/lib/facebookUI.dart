@@ -18,7 +18,7 @@ class facebookUI extends StatelessWidget {
         ),
       ),
       body: Container(
-          padding: EdgeInsets.all(5),
+          padding: EdgeInsets.only(right: 5, left: 5, bottom: 5, top: 20),
           child: Column(
             mainAxisAlignment: MainAxisAlignment.start,
             children: [
