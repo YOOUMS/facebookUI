@@ -118,12 +118,13 @@ class facebookUI extends StatelessWidget {
                                             "assets/facebookIcons/plus.png"))),
                               ),
                               Container(
-                                margin: EdgeInsets.only(top: 120),
+                                margin: EdgeInsets.only(top: 130, left: 5),
                                 child: Text(
                                   "Add Your Story",
                                   style: TextStyle(
                                       color: Colors.white,
-                                      fontWeight: FontWeight.bold),
+                                      fontWeight: FontWeight.bold,
+                                      fontSize: 12),
                                 ),
                               )
                             ],
@@ -160,12 +161,13 @@ class facebookUI extends StatelessWidget {
                                         fit: BoxFit.cover)),
                               ),
                               Container(
-                                margin: EdgeInsets.only(top: 120),
+                                margin: EdgeInsets.only(top: 130, left: 5),
                                 child: Text(
                                   "Anlata Mkheats",
                                   style: TextStyle(
                                       color: Colors.white,
-                                      fontWeight: FontWeight.bold),
+                                      fontWeight: FontWeight.bold,
+                                      fontSize: 12),
                                 ),
                               )
                             ],
@@ -202,12 +204,13 @@ class facebookUI extends StatelessWidget {
                                         fit: BoxFit.cover)),
                               ),
                               Container(
-                                margin: EdgeInsets.only(top: 120),
+                                margin: EdgeInsets.only(top: 130, left: 5),
                                 child: Text(
                                   "Anlata Mkheats",
                                   style: TextStyle(
                                       color: Colors.white,
-                                      fontWeight: FontWeight.bold),
+                                      fontWeight: FontWeight.bold,
+                                      fontSize: 12),
                                 ),
                               )
                             ],
@@ -244,12 +247,13 @@ class facebookUI extends StatelessWidget {
                                         fit: BoxFit.cover)),
                               ),
                               Container(
-                                margin: EdgeInsets.only(top: 120),
+                                margin: EdgeInsets.only(top: 130, left: 5),
                                 child: Text(
                                   "Anlata Mkheats",
                                   style: TextStyle(
                                       color: Colors.white,
-                                      fontWeight: FontWeight.bold),
+                                      fontWeight: FontWeight.bold,
+                                      fontSize: 12),
                                 ),
                               )
                             ],
@@ -286,12 +290,13 @@ class facebookUI extends StatelessWidget {
                                         fit: BoxFit.cover)),
                               ),
                               Container(
-                                margin: EdgeInsets.only(top: 120),
+                                margin: EdgeInsets.only(top: 130, left: 5),
                                 child: Text(
                                   "Anlata Mkheats",
                                   style: TextStyle(
                                       color: Colors.white,
-                                      fontWeight: FontWeight.bold),
+                                      fontWeight: FontWeight.bold,
+                                      fontSize: 12),
                                 ),
                               )
                             ],
@@ -328,12 +333,13 @@ class facebookUI extends StatelessWidget {
                                         fit: BoxFit.cover)),
                               ),
                               Container(
-                                margin: EdgeInsets.only(top: 120),
+                                margin: EdgeInsets.only(top: 130, left: 5),
                                 child: Text(
                                   "Anlata Mkheats",
                                   style: TextStyle(
                                       color: Colors.white,
-                                      fontWeight: FontWeight.bold),
+                                      fontWeight: FontWeight.bold,
+                                      fontSize: 12),
                                 ),
                               )
                             ],
